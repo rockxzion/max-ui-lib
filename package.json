@@ -48,7 +48,7 @@
     ]
   },
   "publishConfig": {
-    "@rockxzion:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@rockxzion"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^6.5.9",
