@@ -1,4 +1,4 @@
-name: Node.js Package
+name: Create and publish a Docker image
 
 on:
   release:
