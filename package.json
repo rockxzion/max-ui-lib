@@ -47,6 +47,9 @@
       "last 1 safari version"
     ]
   },
+  "publishConfig": {
+    "@rockxzion:registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "@storybook/addon-actions": "^6.5.9",
     "@storybook/addon-essentials": "^6.5.9",
