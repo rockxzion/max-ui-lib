@@ -49,6 +49,7 @@
   "publishConfig": {
     "@rockxzion:registry": "https://npm.pkg.github.com"
   },
+  "repository": "git://github.com/rockxzion/max-ui-lib.git",
   "devDependencies": {
     "@storybook/addon-actions": "^6.5.9",
     "@storybook/addon-essentials": "^6.5.9",
